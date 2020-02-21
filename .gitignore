@@ -1,0 +1,10 @@
+/Assets/*.meta
+/Assets/Materials
+/Assets/PhysicsMaterials
+/Assets/Scenes
+/Assets/Scripts/*.cs.meta
+/Library
+/Logs
+/Packages
+/ProjectSettings
+/Temp
