@@ -4,6 +4,8 @@
 /Assets/Scenes
 /Assets/Prefabs
 /Assets/Scripts/*.cs.meta
+/Assets/Scripts/Animation
+/Assets/Images
 /Library
 /Logs
 /Packages
