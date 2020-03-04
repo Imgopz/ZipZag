@@ -54,4 +54,5 @@ public class UiManager : MonoBehaviour
     {
      	 displayScore.text = PlayerPrefs.GetInt("score").ToString();  
     }
+
 }
