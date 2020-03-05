@@ -48,6 +48,9 @@ public class UiManager : MonoBehaviour
 
     public void Reset(){
     	SceneManager.LoadScene(0);
+    	if(Time.timeScale == 0f){
+    		Time.timeScale = 1;
+    	}
     }
     // Update is called once per frame
     void Update()

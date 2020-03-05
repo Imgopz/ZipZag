@@ -1,4 +1,5 @@
 /Assets/*.meta
+/Assets/*.fbx
 /Assets/Materials
 /Assets/PhysicsMaterials
 /Assets/Scenes
